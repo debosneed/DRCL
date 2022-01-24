@@ -11,7 +11,76 @@
       },
      "title": "A visitor from the East",
       "volume": "1"
-       }
-       }
-       }
-       
+         },
+         "2":{
+            "groups":{
+               "midnight children":"/proxy/api/imgur/chapter/<zygtAlp>/"
+            },
+           "title":"Prelude to the storm",
+            "volume":"1",
+           },
+            "3":{
+               "title":"Twilight Visitor",
+               "volume":"1",
+               "groups":{
+                  "midnight children":"/proxy/api/imgur/chapter/<fsMCHXS>/"
+               },
+               "4":{
+                  "groups":{
+                     "midnight children":"/proxy/api/imgur/chapter/<uIWCe1v>/"
+                  }, 
+                  "title":"CACC",
+                  "volume":"1",
+                 },
+                  "5":{
+                      "groups":{
+                        "midnight children":"/proxy/api/imgur/chapter/<1EBIKKa>/"
+                     }, 
+                     "title":"Chance Encounter",
+                     "volume":"1",
+                   },
+                     "6":{
+                        "groups":{
+                           "midnight children":"/proxy/api/imgur/chapter/<Ze6LDuM>/"
+                        },
+                        "title":"dancer in the night",
+                        "volume":"1",
+                       },
+                        "7":{
+                            "groups":{
+                              "midnight children":"/proxy/api/imgur/chapter/<dJ1Sdxh/"
+                           },
+                           "title":"Our name is Count Dracula",
+                           "volume":"1",
+                         },
+                           "8":{
+                              "groups":{
+                                 "midnight children":"/proxy/api/imgur/chapter/<gI39GW4>/"
+                              }, 
+                              "title":"The Red-haired Ghost of Whitby School",
+                              "volume":"1",
+                             },
+                              "9":{
+                                   "groups":{
+                                    "midnight children":"/proxy/api/imgur/chapter/<ovlSlYA>/"
+                                 },
+                                 "title":"Clear Sky Turbulence",
+                                 "volume":"1",
+                               },
+                                 "10":{
+                                   "groups":{
+                                       "midnight children":"/proxy/api/imgur/chapter/<C8N0toc>/"
+                                    },
+                                    "title":"Twilight Bride",
+                                    "volume":"1",
+                                    },
+                                    "11":{
+                                         "groups":{
+                                          "midnight children":"/proxy/api/imgur/chapter/<PqLc3oo>/"
+                                       },
+                                       "title":"Replicant",
+                                       "volume":"1",
+                                   
+                        }
+                                    }
+                                 }
