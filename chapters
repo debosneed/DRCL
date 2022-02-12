@@ -81,6 +81,13 @@
          },
          "title":"Replicant",
          "volume":"1"
+      },
+        "12":{
+         "groups":{
+            "midnight children":"/proxy/api/imgur/chapter/T5dX4uK/"
+         },
+         "title":"Dragon Son",
+         "volume":"2"
       }
    }
 }
