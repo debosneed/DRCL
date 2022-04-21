@@ -1,8 +1,8 @@
 {
    "title":"#DRCL midnight children",
    "description":"This is the full record of how despite different genders, nationalities and social statuses, we worked together until we attained victory over fear itself",
-   "author":"Shin-ichi Sakamoto",
-   "artist":"Shin-ichi Sakamoto",
+   "author":"Sakamoto Shin'ichi",
+   "artist":"Sakamoto Shin'ichi",
    "cover":"https://i.imgur.com/1bcXhOL.jpg",
    "chapters":{
       "1":{
@@ -94,6 +94,13 @@
             "midnight children":"/proxy/api/imgur/chapter/3ZPD90g/"
          },
          "title":"Pas de deux",
+         "volume":"2"
+      },
+           "14":{
+         "groups":{
+            "midnight children":"/proxy/api/imgur/chapter/mrerKqc/"
+         },
+         "title":"chaos",
          "volume":"2"
       }
    }
