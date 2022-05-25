@@ -102,6 +102,13 @@
          },
          "title":"chaos",
          "volume":"2"
-      }
+      },
+      "15":{
+         "groups":{
+            "midnight children":"/proxy/api/imgur/chapter/SGcQIE3/"
+         },
+         "title":"Night Flight",
+         "volume":"2"
+      }  
    }
 }
