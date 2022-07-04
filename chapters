@@ -109,6 +109,13 @@
          },
          "title":"Night Flight",
          "volume":"2"
+      },
+            "16":{
+         "groups":{
+            "midnight children":"/proxy/api/imgur/chapter/O7rdsdr/"
+         },
+         "title":"Checkmate",
+         "volume":"2"
       }  
    }
 }
