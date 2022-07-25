@@ -116,6 +116,14 @@
          },
          "title":"Checkmate",
          "volume":"2"
-      }  
+      },
+       "17":{
+         "groups":{
+            "midnight children":"/proxy/api/imgur/chapter/zJNtkmt/"
+         },
+         "title":"Theory of Evolution",
+         "volume":"2"
+      }
+      
    }
 }
