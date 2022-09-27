@@ -130,7 +130,7 @@
          },
          "title":"harmony",
          "volume":"3"
-   },
+      },
     "19":{
          "groups":{
             "midnight children":"/proxy/api/imgur/chapter/0jPQDHg/"
@@ -138,5 +138,4 @@
          "title":"#",
          "volume":"3"
       }
-   
-}
+ }
