@@ -59,28 +59,28 @@
             "midnight children":"/proxy/api/imgur/chapter/gI39GW4/"
          },
          "title":"The Red-haired Ghost of Whitby School",
-         "volume":"1"
+         "volume":"2"
       },
       "9":{
          "groups":{
             "midnight children":"/proxy/api/imgur/chapter/ovlSlYA/"
          },
          "title":"Clear Sky Turbulence",
-         "volume":"1"
+         "volume":"2"
       },
       "10":{
          "groups":{
             "midnight children":"/proxy/api/imgur/chapter/C8N0toc/"
          },
          "title":"Twilight Bride",
-         "volume":"1"
+         "volume":"2"
       },
       "11":{
          "groups":{
             "midnight children":"/proxy/api/imgur/chapter/PqLc3oo/"
          },
          "title":"Replicant",
-         "volume":"1"
+         "volume":"2"
       },
         "12":{
          "groups":{
@@ -143,6 +143,13 @@
             "midnight children":"/proxy/api/imgur/chapter/qFtfOqh/"
          },
          "title":"Oujia Board",
+         "volume":"3"
+         },
+  "21":{
+         "groups":{
+            "midnight children":"/proxy/api/imgur/chapter/Tf9AlP9/"
+         },
+         "title":"The Unbridled",
          "volume":"3"
          }
          } 
