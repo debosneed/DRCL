@@ -158,6 +158,13 @@
          },
          "title":"Jonathan Harker's Journal",
          "volume":"4"
-         } 
+         },
+            "23":{
+         "groups":{
+            "midnight children":"/proxy/api/imgur/chapter/1WSQszv/"
+         },
+         "title":"The Envoy of Borgo Pass",
+         "volume":"4"
+         }   
          } 
          }
